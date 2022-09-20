@@ -68,4 +68,14 @@
   .member-2gU6Ar {
     max-width: initial;
   }
+
+  /* Thumbnail fix */
+  .hasThumbnail-388RMe > div:not(.embedThumbnail-2nTasl) {
+    z-index: 100;
+  }
+  
+  .embedThumbnail-2nTasl {
+    position: absolute;
+    z-index: 10;
+  }
 }
