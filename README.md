@@ -1,9 +1,9 @@
-# BetterDiscord-MobileTheme
+# DiscordWebMobileSupport
 
 Enables mobile responsive view of [Discord](https://discord.com) for [BetterDiscord](https://betterdiscord.app) or [Discord on browser](discord.com/app) with [Stylebot](https://stylebot.dev)
 
 ## With this addon:
-![merged](https://user-images.githubusercontent.com/40129033/191197535-e7737aa7-8757-4899-a64d-6af8243eacb0.png)
+![merged (2)](https://user-images.githubusercontent.com/40129033/191229255-2a31f67c-42e8-4831-8f4d-1bb655492c47.png)
 
 
 ## Without this addon (default):
