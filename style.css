@@ -4,6 +4,7 @@
     scrollbar-width: auto;
     scrollbar-color: var(--scrollbar-auto-scrollbar-color-thumb)
       var(--scrollbar-auto-scrollbar-color-track);
+    scroll-snap-type: x mandatory;
   }
 
   .base-2jDfDU::-webkit-scrollbar {
@@ -33,6 +34,18 @@
 
   .content-1SgpWY {
     width: calc(300vw - 300px);
+  }
+
+  .content-1SgpWY > div:nth-child(1) {
+    scroll-snap-align: start;
+  }
+
+  .content-1SgpWY > div:nth-child(2) {
+    scroll-snap-align: start;
+  }
+
+  .content-1SgpWY > div:nth-child(3) {
+    scroll-snap-align: end;
   }
 
   .sidebar-1tnWFu {
