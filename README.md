@@ -3,7 +3,7 @@
 Enables mobile responsive view of Discord for [BetterDiscord](https://betterdiscord.app) or Discord on browser with [Stylebot](https://stylebot.dev)
 
 ## With this addon:
-![preview](https://user-images.githubusercontent.com/40129033/191187851-a8b6b55a-15da-45d7-90a7-34c1cea1cb09.png)
+![merged](https://user-images.githubusercontent.com/40129033/191197535-e7737aa7-8757-4899-a64d-6af8243eacb0.png)
 
 
 ## Without this addon (default):
