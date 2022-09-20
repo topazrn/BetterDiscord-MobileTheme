@@ -33,7 +33,7 @@
   }
 
   .content-1SgpWY {
-    width: calc(300vw - 300px);
+    width: calc(300vw - 215px);
   }
 
   .content-1SgpWY > div:nth-child(1) {
@@ -49,15 +49,23 @@
   }
 
   .sidebar-1tnWFu {
-    width: calc(100vw - 100px);
+    width: calc(100vw - 70px);
   }
 
   main.chatContent-3KubbW {
-    width: calc(100vw - 100px);
+    width: calc(100vw - 73px);
     flex: initial;
   }
 
   .container-2o3qEW {
-    width: calc(100vw - 100px);
+    width: calc(100vw - 72px);
+  }
+
+  .members-3WRCEx {
+    width: 100%;
+  }
+
+  .member-2gU6Ar {
+    max-width: initial;
   }
 }
