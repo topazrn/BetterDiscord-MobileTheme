@@ -1,0 +1,22 @@
+@media (max-width: 768px) {
+  .base-2jDfDU {
+    overflow-x: auto;
+  }
+
+  .content-1SgpWY {
+    width: calc(300vw - 300px);
+  }
+
+  .sidebar-1tnWFu {
+    width: calc(100vw - 100px);
+  }
+
+  main.chatContent-3KubbW {
+    width: calc(100vw - 100px);
+    flex: initial;
+  }
+
+  .container-2o3qEW {
+    width: calc(100vw - 100px);
+  }
+}
